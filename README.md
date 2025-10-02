@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction Project
 
-## 📌 Problem Statement
+##  Problem Statement
 House prices are influenced by multiple factors such as size, location, and quality.  
 The goal of this project is to **predict house prices** using data and machine learning.
 
